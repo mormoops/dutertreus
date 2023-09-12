@@ -1,2 +1,2 @@
 # dutertreus
-Raw data and scripts for phenotypic and spatial analysis to test for species limits in Caribbean <i>Eptesicus</i>
+Raw data and scripts for phenotypic and spatial analysis to test for species limits in Caribbean *Eptesicus*
