@@ -6,7 +6,7 @@
 
 ################################################
 
-############ ------------ PopGen analysis for ddRADsnx ------------ ############
+############ ------------ PopGen analysis for Eptesicus fuscus ------------ ############
 ### source: https://grunwaldlab.github.io/Population_Genetics_in_R/gbs_analysis.html
 
 ################################################ 
